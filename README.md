@@ -1,4 +1,4 @@
-HTML-Basics-Tutorial-22---Style-Tag
+HTML Basics Tutorial 22 - Style Tag
 ===================================
 
-Code for the following video tutorial
+Code for the following video tutorial http://youtu.be/wWHQEduziwQ
